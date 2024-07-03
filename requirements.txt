@@ -6,3 +6,12 @@ langchain
 faiss-cpu
 tiktoken
 bs4
+langchain_community
+langchain_chroma
+langchain_core
+langchain_openai
+langchain_text_splitters
+dotenv
+langchain_cohere
+streamlit
+arabic_support 
