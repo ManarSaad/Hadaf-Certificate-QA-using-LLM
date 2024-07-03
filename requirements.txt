@@ -1,7 +1,7 @@
 fastapi[all]
 openai
 python-dotenv
-pydantic==1.*
+pydantic
 langchain
 faiss-cpu
 tiktoken
